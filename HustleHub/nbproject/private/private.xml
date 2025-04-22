@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/HustleHub/recieved_message.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/applied.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/message.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/login_user.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/send_application.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/register_user.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/res/style.css</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/login.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/find_client.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/application.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/views/view_applicationform.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/index.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/views/view_applied.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/registration.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/create_post.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/dbconnection.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/views/view_jobpost.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/update_applicationstatus.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/registerrole.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/send_message.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/profile.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/models/logout_user.php</file>
+            <file>file:/C:/xampp/htdocs/HustleHub/home.php</file>
+        </group>
+    </open-files>
+</project-private>
